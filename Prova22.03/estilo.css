@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    font-size: 62.5%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-rendering: optimizeLegibility;
+}
+
+
+
+img{
+    border-radius: 55%;
+    height: 8rem;
+    width: 8rem;
+    margin-top: 3rem;
+    margin-left: 4rem;
+}
+
+
+.oi{
+    border: black solid;
+    padding-bottom: 3rem;
+}
+
+.nome{
+    font-size: 3rem;
+    margin-left:14rem;
+    margin-bottom: 2rem;
+    margin-top: -9rem;
+
+}
+
+.pesquisa{
+    border: black solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -5rem;
+    padding: 1.5rem;
+    border-radius: 5rem;
+    margin-left: 50rem;
+    margin-right: 50rem;
+}
+
+.Sin{
+    font-size: 2rem;
+    border: black solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10rem;
+    height: 4rem;
+    margin-left: 125rem;
+    margin-right: 125rem;
+    margin-top: -4rem;
+    border-radius: 5rem;
+}
+
+.Log{
+    font-size: 2rem;
+    border: black solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 9rem;
+    height: 4rem;
+    margin-left: 140rem;
+    margin-right: 140rem;
+    margin-top: -4rem;
+    border-radius: 5rem;
+}
+
+.teste{
+    margin-top: 20rem;
+    height: 30rem;
+    width: 45rem;
+    border: black solid;
+    margin-left: 50rem;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5rem;
+}
